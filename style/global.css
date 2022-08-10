@@ -148,6 +148,7 @@ html body .main .our__menu .description__right {
   display: flex;
   flex-direction: column;
   justify-content: center;
+  align-items: center;
   padding-left: 3rem;
 }
 html body .main .our__menu .description__right .sub__title {
